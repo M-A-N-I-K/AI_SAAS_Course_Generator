@@ -14,7 +14,7 @@ const CreatePage = async (props: Props) => {
 	}
 	//   const isPro = await checkSubscription();
 	return (
-		<section className="flex flex-col items-start w-[800px] px-8 mx-auto my-16 sm:px-0">
+		<section className="flex flex-col items-start sm:w-[400px] md:w-[800px] px-8 mx-auto my-16 sm:px-0">
 			<div className="flex flex-col items-start max-w-20xl px-8 mx-auto my-16 sm:px-0">
 				<h1 className="self-center text-xl font-bold text-center sm:text-6xl">
 					Craft Your Knowledge Journey:
